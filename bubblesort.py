@@ -7,4 +7,4 @@ def bubble_sort(arr):
     return arr
 my_list = list(map(int,input("give an array").split()))
 sorted_list = bubble_sort(my_list)
-print("sorted array is", sorted_list)
+print("Sorted array is", sorted_list)
